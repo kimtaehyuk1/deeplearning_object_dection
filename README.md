@@ -1,4 +1,4 @@
-# Yolo V3 keras 기반 모델을 활용한 객체 탐지 구현
+# Yolo V3 keras 기반 모델을 활용한 객체 탐지 직접 구현
     - 이미지를 입력해서 객체 탐지
     - 카메라를 통한 실시간 영상을 통해서 객체 탐지
         - 프로그램 수행으로 구동
@@ -17,3 +17,5 @@
     - 초기모델의 학습시 사용한  class 값 ()
         - https://github.com/pjreddie/darknet/blob/master/data/coco.names
         - coco_labels.txt 저장
+
+# 모델 생성에 입력으로 들어간 yolov3.weights는 파일관계상 깃에는 올리지 못했음
