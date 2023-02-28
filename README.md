@@ -1,4 +1,6 @@
-<img src="https://user-images.githubusercontent.com/67897827/221734971-004f61b3-3c9a-4cc2-84b1-87b78fc8f656.PNG" width="600" height="500"/>
+|정지 이미지 객체인식|카메라라이브 객체인식|
+|:-:|:-:|
+|<img src="https://user-images.githubusercontent.com/67897827/221734971-004f61b3-3c9a-4cc2-84b1-87b78fc8f656.PNG" width="700" height="300"/>|<img src="https://user-images.githubusercontent.com/67897827/221750847-0e4ee1ac-7261-438c-b37a-1f21e8a7f5cc.PNG" width="700" height="300"/>| 
 
 # Yolo V3 keras 기반 모델을 활용한 객체 탐지 직접 구현
     - 이미지를 입력해서 객체 탐지
